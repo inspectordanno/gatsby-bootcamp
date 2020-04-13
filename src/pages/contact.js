@@ -1,12 +1,12 @@
 import React from 'react';
 
-import Header from '../components/header'
-import Footer from '../components/footer';
 import Layout from '../components/layout';
+import Head from "../components/head";
 
 const ContactPage = () => {
   return (
     <Layout>
+      <Head title="Contact" />
       <h1>Contact</h1>
       <p>My email is poop@gmail.com. <a href="twitter.com/inspectordanno"> My Twitter.</a></p>
     </Layout>
