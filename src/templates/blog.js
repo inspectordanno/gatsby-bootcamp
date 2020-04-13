@@ -17,7 +17,7 @@ export const query = graphql`
   }
 `
 
-//response prop of query is provided to component blow
+//response prop of query is provided to component below
 
 const Blog = ({ data }) => {
   return (
