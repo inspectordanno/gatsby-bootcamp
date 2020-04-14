@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"Cuy+":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),c=n("Bl7J"),o=n("hIod");t.default=function(){return l.a.createElement(c.a,null,l.a.createElement(o.a,{title:"Contact"}),l.a.createElement("h1",null,"Contact"),l.a.createElement("p",null,"My email is poop@gmail.com. ",l.a.createElement("a",{href:"twitter.com/inspectordanno"}," My Twitter.")))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-9bc4a03ce418fa9ab0e5.js.map
